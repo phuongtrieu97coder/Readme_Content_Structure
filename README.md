@@ -15,53 +15,55 @@
 
 # 1.Purpose:
 
--
+- (your purpose of making this website | application)
 
->
+> (your purpose of making this website | application)
 
 # 2.How it work:
 
--
+- (how your website | work)
 
->
+>  (how your website | work)
 
 # 3.Technologies:
 
 ### a.Programming languages:
 
->
+> (any programming languages)
 
 ### b.Algorithms, Data structures, Syntaxes, and Methods concepts:
 
->
+> (any Algorithms, Data structures, Syntaxes, and Methods concepts)
 
 ### c.IDE,Software:
 
->
+> (any IDE, Software)
 
 ### d.Database, Cloud Service:
 
->
+> (any database, cloud service)
 
 ### e. Syntaxes:
-
+/*
 ```language_option
 put any syntax here 
 ```
+*/
 
+/*
 ex:
 
 ```javascript 
 console.log('Hello World!!!');
 ```
-
+*/
 
 
 # 4.Files|Folders are being used:
 
--
+- (any file, folder)
 
->
+> (any file, folder)
 
 > Link: <a type="button">[index.js](./src/index.js)</a>    ![image](https://img.shields.io/badge/JS-JavaScript-yellow)
 
@@ -72,7 +74,7 @@ console.log('Hello World!!!');
 
 # 6. Setup:
 
->
+> (you to setup)
 
 # 7. Running | Output:
 
@@ -83,7 +85,7 @@ console.log('Hello World!!!');
 
 # 8. Things to notice:
 
->
+> (what things to notice?)
 
 
 # 9. Sources:
@@ -94,12 +96,12 @@ console.log('Hello World!!!');
 
 # 10. Policy:
 
->
+> (any policy)
 
 # 11. Term of Use:
 
-> 
+> (any term of use)
 
 # 12. Contact:
 
->
+> (give your contact information here)
