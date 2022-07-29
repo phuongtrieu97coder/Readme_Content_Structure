@@ -31,7 +31,7 @@
 
 > (any programming languages)
 
-> ![image](https://img.shields.io/badge/PHP-PHP-blueviolet) ![image](https://img.shields.io/badge/HTML-HTML5-orange) ![image](https://img.shields.io/badge/CSS-CSS3-blue) ![image](https://img.shields.io/badge/SASS-SASS-ff69b4) ![image](https://img.shields.io/badge/B-Bootstrap-blueviolet) ![image](https://img.shields.io/badge/W3CSS-W3CSS-green) ![image](https://img.shields.io/badge/JS-JavaScript-yellow) ![image](https://img.shields.io/badge/jQuery-jQuery-black) ![image](https://img.shields.io/badge/A-AngularJS-red) ![image](https://img.shields.io/badge/SQL-SQL-blue)  ![image](https://img.shields.io/badge/Node-NodeJS-brightgreen) ![image](https://img.shields.io/badge/React-ReactJS-blue)  ![image](https://img.shields.io/badge/express-ExpressJS-black) ![image](https://img.shields.io/badge/Redux-ReduxJS-blueviolet)
+> ![image](https://img.shields.io/badge/PHP-PHP-blueviolet) ![image](https://img.shields.io/badge/HTML-HTML5-orange) ![image](https://img.shields.io/badge/CSS-CSS3-blue) ![image](https://img.shields.io/badge/SASS-SASS-ff69b4) ![image](https://img.shields.io/badge/B-Bootstrap-blueviolet) ![image](https://img.shields.io/badge/W3CSS-W3CSS-green) ![image](https://img.shields.io/badge/JS-JavaScript-yellow) ![image](https://img.shields.io/badge/jQuery-jQuery-black) ![image](https://img.shields.io/badge/A-AngularJS-red) ![image](https://img.shields.io/badge/SQL-SQL-blue)  ![image](https://img.shields.io/badge/Node-NodeJS-brightgreen) ![image](https://img.shields.io/badge/React-ReactJS-blue)  ![image](https://img.shields.io/badge/express-ExpressJS-black) ![image](https://img.shields.io/badge/Redux-ReduxJS-blueviolet) ![image](https://img.shields.io/badge/JSON-{JSON}-black)
 
 ### b.Algorithms, Data structures, Syntaxes, and Methods concepts:
 
@@ -41,8 +41,8 @@
 
 > (any IDE, Software)
 
-![image](https://user-images.githubusercontent.com/82598726/181828247-0a180433-7628-45d0-91fc-c653225c57aa.png) ![image](https://user-images.githubusercontent.com/82598726/181828341-f2d35c6d-863e-4f1c-af84-a9ebc1e33d58.png) ![image](https://user-images.githubusercontent.com/82598726/181830045-2769b49a-2b5a-43ad-b519-5ae02d5b736a.png)
- ![image](https://user-images.githubusercontent.com/82598726/181828437-03bf1b40-f35c-4e48-8ebd-127ef3a6f49d.png)
+![image](https://user-images.githubusercontent.com/82598726/181828247-0a180433-7628-45d0-91fc-c653225c57aa.png) ![image](https://user-images.githubusercontent.com/82598726/181828341-f2d35c6d-863e-4f1c-af84-a9ebc1e33d58.png) ![image](https://user-images.githubusercontent.com/82598726/181830045-2769b49a-2b5a-43ad-b519-5ae02d5b736a.png) ![image](https://user-images.githubusercontent.com/82598726/181828759-13c51469-e35d-44d6-af61-dfff064b7536.png)
+ ![image](https://user-images.githubusercontent.com/82598726/181828437-03bf1b40-f35c-4e48-8ebd-127ef3a6f49d.png) ![image](https://user-images.githubusercontent.com/82598726/181835143-0f7aa21a-1081-4df5-954e-6e89259d21e7.png)
 
 ### d.Database, Cloud Service:
 
