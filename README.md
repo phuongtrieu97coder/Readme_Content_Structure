@@ -7,7 +7,7 @@
 
 > Notice: What things to put into readme.md file depends on the type of project you are working on.
 
-> Some of these things below can remind you of the ideas to put into this file, do not use all of them in your file since it takes too much time to write.
+> Some of the things in this file can remind you of the ideas to put into this file, do not use all of them in your file since it takes too much time to write.
 
 
 # Name of project
